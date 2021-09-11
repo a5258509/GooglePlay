@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:descendantFocusability="blocksDescendants"
+    android:padding="5dp">
+
+    <ImageView
+        android:id="@+id/item_iv_icon"
+        android:layout_width="50dp"
+        android:layout_height="45dp"
+        android:src="@mipmap/appinfo_pic_default"
+        android:scaleType="centerCrop"
+        android:layout_centerVertical="true"
+        android:background="#FFFFFF"
+        android:padding="1dp"
+        android:layout_marginRight="8dp"
+        />
+
+    <!--
+    scaleType:设置imageview的图片显示样式
+    scaleType="centerCrop":将图片放大/缩小,在imageview的中心位置显示图片,如果图片有超出imageview的部分,裁剪去除
+    scaleType="fitXY":拉伸图片.填充满整个imageView
+    -->
+
+    <TextView
+        android:id="@+id/item_tv_titles"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="实用录屏软件,实用录屏软件,实用录屏软件"
+        android:textStyle="bold"
+        android:textSize="13sp"
+        android:textColor="#000000"
+        android:layout_toRightOf="@id/item_iv_icon"
+        android:maxLines="1"/>
+    <!--maxLines设置TextView的最大行数-->
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_toRightOf="@id/item_iv_icon"
+        android:layout_below="@+id/item_tv_titles"
+        >
+
+        <TextView
+            android:id="@+id/item_tv_sizedesc"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.4"
+            android:text="大小:"
+            android:textSize="11sp"
+            android:textColor="#000000"
+            android:layout_gravity="center_vertical"
+            />
+
+        <TextView
+            android:id="@+id/item_tv_size"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.4"
+            android:text="11.53M"
+            android:textSize="10sp"
+            android:textColor="@android:color/darker_gray"
+            android:layout_gravity="center_vertical"
+            />
+
+        <TextView
+            android:id="@+id/item_tv_timedesc"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:text="最后更新:"
+            android:textSize="11sp"
+            android:textColor="#000000"
+            android:layout_gravity="center_vertical"
+            />
+
+
+        <TextView
+            android:id="@+id/item_tv_time"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:text="2021-02-19"
+            android:textSize="10sp"
+            android:textColor="@android:color/darker_gray"
+            android:layout_gravity="center_vertical"
+            />
+
+        <Button
+            android:id="@+id/item_btn_download"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.4"
+            android:focusable="false"
+            android:clickable="true"
+            android:textSize="9sp"
+            android:textStyle="bold"
+            android:layout_gravity="center_vertical"
+            android:text="下载"/>
+    </LinearLayout>
+
+
+
+</RelativeLayout>

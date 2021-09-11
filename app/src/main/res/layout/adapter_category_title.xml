@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    
+    <TextView
+        android:id="@+id/tv_title"
+        android:padding="@dimen/ui_10_dp"
+        android:maxLines="1"
+        android:text="千山鸟飞绝,万径人踪灭,孤舟蓑笠翁,独钓寒江雪"
+        android:textColor="@color/black"
+        android:textSize="@dimen/ui_16_dp"
+        android:layout_marginLeft="@dimen/ui_10_dp"
+        android:layout_marginRight="@dimen/ui_10_dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

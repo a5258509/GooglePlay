@@ -1,0 +1,41 @@
+com/viewpagerindicator/CirclePageIndicator.java
+ com.viewpagerindicator.CirclePageIndicator
+ com.viewpagerindicator.CirclePageIndicator$1
+ com.viewpagerindicator.CirclePageIndicator$SavedState
+ com.viewpagerindicator.CirclePageIndicator$SavedState$1
+com/viewpagerindicator/IconPagerAdapter.java
+ com.viewpagerindicator.IconPagerAdapter
+com/viewpagerindicator/TabPageIndicator.java
+ com.viewpagerindicator.TabPageIndicator
+ com.viewpagerindicator.TabPageIndicator$1
+ com.viewpagerindicator.TabPageIndicator$2
+ com.viewpagerindicator.TabPageIndicator$OnTabReselectedListener
+ com.viewpagerindicator.TabPageIndicator$TabView
+com/viewpagerindicator/LinePageIndicator.java
+ com.viewpagerindicator.LinePageIndicator
+ com.viewpagerindicator.LinePageIndicator$1
+ com.viewpagerindicator.LinePageIndicator$SavedState
+ com.viewpagerindicator.LinePageIndicator$SavedState$1
+com/viewpagerindicator/IconPageIndicator.java
+ com.viewpagerindicator.IconPageIndicator
+ com.viewpagerindicator.IconPageIndicator$1
+com/viewpagerindicator/IcsLinearLayout.java
+ com.viewpagerindicator.IcsLinearLayout
+com/viewpagerindicator/UnderlinePageIndicator.java
+ com.viewpagerindicator.UnderlinePageIndicator
+ com.viewpagerindicator.UnderlinePageIndicator$1
+ com.viewpagerindicator.UnderlinePageIndicator$2
+ com.viewpagerindicator.UnderlinePageIndicator$SavedState
+ com.viewpagerindicator.UnderlinePageIndicator$SavedState$1
+com/viewpagerindicator/TitlePageIndicator.java
+ com.viewpagerindicator.TitlePageIndicator
+ com.viewpagerindicator.TitlePageIndicator$1
+ com.viewpagerindicator.TitlePageIndicator$IndicatorStyle
+ com.viewpagerindicator.TitlePageIndicator$LinePosition
+ com.viewpagerindicator.TitlePageIndicator$OnCenterItemClickListener
+ com.viewpagerindicator.TitlePageIndicator$SavedState
+ com.viewpagerindicator.TitlePageIndicator$SavedState$1
+com/viewpagerindicator/BuildConfig.java
+ com.viewpagerindicator.BuildConfig
+com/viewpagerindicator/PageIndicator.java
+ com.viewpagerindicator.PageIndicator

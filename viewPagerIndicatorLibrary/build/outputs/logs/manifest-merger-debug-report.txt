@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\androidStudy\GooglePlay\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:3:1-8:12
+INJECTED from D:\androidStudy\GooglePlay\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:3:1-8:12
+INJECTED from D:\androidStudy\GooglePlay\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:3:1-8:12
+	package
+		ADDED from D:\androidStudy\GooglePlay\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from D:\androidStudy\GooglePlay\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\androidStudy\GooglePlay\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\androidStudy\GooglePlay\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:6:5-32
+	xmlns:android
+		ADDED from D:\androidStudy\GooglePlay\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from D:\androidStudy\GooglePlay\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml:5:5-29
+uses-sdk
+INJECTED from D:\androidStudy\GooglePlay\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\androidStudy\GooglePlay\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\androidStudy\GooglePlay\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\androidStudy\GooglePlay\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\androidStudy\GooglePlay\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\androidStudy\GooglePlay\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\androidStudy\GooglePlay\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\androidStudy\GooglePlay\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\androidStudy\GooglePlay\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\androidStudy\GooglePlay\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\androidStudy\GooglePlay\viewPagerIndicatorLibrary\src\main\AndroidManifest.xml
